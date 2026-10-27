@@ -1,0 +1,307 @@
+{
+  "$comment": "Companies shown on 01.capital, in the current display order. Single source of truth for the rebuild; see docs/BRIEF.md. Set a category and a main pillar for every company, using the values below. url_source: current-site = copied from the live site, guess = needs confirmation, null = no link yet.",
+  "categories": [
+    "portfolio",
+    "incubated",
+    "partner"
+  ],
+  "pillars": [
+    "fintech",
+    "blockchain",
+    "ai"
+  ],
+  "companies": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "url": "https://bitcoin.org/en/",
+      "url_source": "current-site",
+      "logo": "images/portfolio01.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "internet-computer",
+      "name": "Internet Computer",
+      "url": "https://internetcomputer.org/",
+      "url_source": "guess",
+      "logo": "images/portfolio02.85534.png",
+      "category": null,
+      "pillar": null,
+      "note": "No link on the current site. internetcomputer.org is the official Internet Computer site; confirm."
+    },
+    {
+      "id": "filecoin",
+      "name": "Filecoin",
+      "url": "https://www.filecoin.io/",
+      "url_source": "current-site",
+      "logo": "images/portfolio03.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "axie-infinity",
+      "name": "Axie Infinity",
+      "url": "https://axieinfinity.com/",
+      "url_source": "current-site",
+      "logo": "images/portfolio04.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "mir4",
+      "name": "MIR4",
+      "url": "https://www.mir4global.com/",
+      "url_source": "current-site",
+      "logo": "images/portfolio05.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "planet-of-the-hares",
+      "name": "The Planet of the Hares",
+      "url": "https://0xhares.io/",
+      "url_source": "current-site",
+      "logo": "images/portfolio07.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "aimeta",
+      "name": "AIMETA",
+      "url": "https://www.aimeta.club/",
+      "url_source": "current-site",
+      "logo": "images/portfolio08.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "gamefi-org",
+      "name": "GameFi.org",
+      "url": "https://gamefi.org/",
+      "url_source": "current-site",
+      "logo": "images/portfolio09.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "arbitrum",
+      "name": "Arbitrum",
+      "url": "https://arbitrum.io/",
+      "url_source": "current-site",
+      "logo": "images/portfolio10.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "eldarune",
+      "name": "Eldarune",
+      "url": null,
+      "url_source": null,
+      "logo": "images/portfolio11.85534.png",
+      "category": null,
+      "pillar": null,
+      "note": "No link on the current site; please supply."
+    },
+    {
+      "id": "blade-dao",
+      "name": "Blade DAO",
+      "url": "https://www.bladedao.games/",
+      "url_source": "current-site",
+      "logo": "images/portfolio12.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "puml",
+      "name": "PUML",
+      "url": "https://puml.io/",
+      "url_source": "current-site",
+      "logo": "images/portfolio13.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "gamerhub",
+      "name": "GamerHub",
+      "url": "https://www.gamer-hub.io/",
+      "url_source": "current-site",
+      "logo": "images/portfolio14.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "aegis",
+      "name": "Aegis",
+      "url": "https://www.aegiswallet.app/",
+      "url_source": "current-site",
+      "logo": "images/portfolio15.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "fantaverse",
+      "name": "Fantaverse",
+      "url": "https://www.fantaverse.io/",
+      "url_source": "current-site",
+      "logo": "images/portfolio16.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "aipick",
+      "name": "AIPICK",
+      "url": null,
+      "url_source": null,
+      "logo": "images/portfolio17.85534.png",
+      "category": null,
+      "pillar": null,
+      "note": "No link on the current site; please supply."
+    },
+    {
+      "id": "chatyn",
+      "name": "Chatyn",
+      "url": "https://www.chatyn.io/",
+      "url_source": "current-site",
+      "logo": "images/portfolio18.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "soex",
+      "name": "SOEX",
+      "url": "https://soex.io/",
+      "url_source": "current-site",
+      "logo": "images/portfolio19.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "blur",
+      "name": "Blur",
+      "url": "https://blur.io/",
+      "url_source": "current-site",
+      "logo": "images/portfolio20.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "just",
+      "name": "JUST",
+      "url": null,
+      "url_source": null,
+      "logo": "images/portfolio21.85534.png",
+      "category": null,
+      "pillar": null,
+      "note": "No link on the current site. Could be TRON's JUST network (just.network) or another project; confirm which, and the link."
+    },
+    {
+      "id": "status",
+      "name": "Status",
+      "url": "https://status.app/",
+      "url_source": "current-site",
+      "logo": "images/portfolio22.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "sui",
+      "name": "Sui",
+      "url": "https://sui.io/",
+      "url_source": "current-site",
+      "logo": "images/portfolio23.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "wemix",
+      "name": "WEMIX",
+      "url": "https://wemix.com",
+      "url_source": "current-site",
+      "logo": "images/portfolio24.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "insight-genesis",
+      "name": "Insight Genesis",
+      "url": "https://insightgenesis.ai/",
+      "url_source": "current-site",
+      "logo": "images/portfolio25.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "aqua",
+      "name": "AQUA",
+      "url": "https://www.aquamyai.com/",
+      "url_source": "current-site",
+      "logo": "images/portfolio26.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "aeronyx",
+      "name": "AeroNyx",
+      "url": "https://www.aeronyx.network/",
+      "url_source": "current-site",
+      "logo": "images/portfolio27.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "slash-vision-portal",
+      "name": "Slash Vision Portal",
+      "url": "https://portal.slash.vision/",
+      "url_source": "current-site",
+      "logo": "images/portfolio28.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "gensyn",
+      "name": "Gensyn",
+      "url": "https://www.gensyn.ai/",
+      "url_source": "current-site",
+      "logo": "images/portfolio29.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "audiera",
+      "name": "Audiera",
+      "url": "https://audiera.fi/",
+      "url_source": "current-site",
+      "logo": "images/portfolio30.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "nexo",
+      "name": "Nexo",
+      "url": "https://nexo.com/",
+      "url_source": "current-site",
+      "logo": "images/portfolio31.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "asi-alliance",
+      "name": "Artificial Superintelligence Alliance",
+      "url": "https://superintelligence.io/",
+      "url_source": "current-site",
+      "logo": "images/portfolio32.85534.png",
+      "category": null,
+      "pillar": null
+    },
+    {
+      "id": "tokenpocket",
+      "name": "TokenPocket",
+      "url": "https://www.tokenpocket.pro/",
+      "url_source": "current-site",
+      "logo": "images/portfolio33.85534.png",
+      "category": null,
+      "pillar": null
+    }
+  ]
+}
