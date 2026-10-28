@@ -1,0 +1,33 @@
+{
+  "$comment": "Company facts used across the site. Sections whose English value is empty stay hidden. Per-language values fall back to English. See docs/BRIEF.md for what's still needed.",
+  "siteUrl": "https://www.01.capital",
+  "company": {
+    "legalName": "01 Capital Limited",
+    "jurisdiction": "",
+    "address": { "en": "", "zh-Hant": "", "ko": "", "ja": "" }
+  },
+  "contact": {
+    "general": "marketing@01.capital",
+    "deals": "deals@01.capital"
+  },
+  "social": {
+    "x": "https://x.com/01capital01",
+    "xHandle": "@01capital01",
+    "linkedin": ""
+  },
+  "fund": {
+    "stages": { "en": "", "zh-Hant": "", "ko": "", "ja": "" },
+    "checkSize": { "en": "", "zh-Hant": "", "ko": "", "ja": "" },
+    "geography": { "en": "", "zh-Hant": "", "ko": "", "ja": "" }
+  },
+  "team": [],
+  "teamExample": {
+    "name": "Full name",
+    "role": { "en": "Managing Partner", "zh-Hant": "", "ko": "", "ja": "" },
+    "bio": { "en": "One or two sentences.", "zh-Hant": "", "ko": "", "ja": "" },
+    "photo": "src/assets/img/team/full-name.jpg",
+    "linkedin": "https://www.linkedin.com/in/…",
+    "x": ""
+  },
+  "turnstileSiteKey": ""
+}
