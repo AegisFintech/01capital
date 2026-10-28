@@ -1,0 +1,575 @@
+{
+  "brand": {
+    "name": "01 Capital"
+  },
+  "meta": {
+    "homeTitle": "Venture capital for fintech, blockchain and AI",
+    "siteDescription": "01 Capital is a venture firm investing in fintech, blockchain and AI, with an incubation arm that helps founders build and launch."
+  },
+  "a11y": {
+    "skip": "Skip to content",
+    "home": "01 Capital home",
+    "mainNav": "Main",
+    "footerNav": "Footer",
+    "menu": "Menu",
+    "language": "Language",
+    "newTab": "opens in a new tab"
+  },
+  "nav": {
+    "invest": "Invest",
+    "incubation": "Incubation",
+    "ecosystem": "Ecosystem",
+    "insights": "Insights",
+    "about": "About",
+    "contact": "Contact",
+    "submit": "Submit your deck"
+  },
+  "common": {
+    "explore": "Explore",
+    "learnMore": "Learn more",
+    "allInsights": "All insights"
+  },
+  "cta": {
+    "title": "Building in fintech, blockchain or AI?",
+    "text": "We read every deck. Tell us what you're building and where you need help.",
+    "button": "Submit your deck"
+  },
+  "criteria": {
+    "items": [
+      {
+        "title": "Domain depth",
+        "text": "Founders with deep knowledge of their market, who ship quickly and learn faster."
+      },
+      {
+        "title": "Proof of demand",
+        "text": "A real problem, with evidence that people want it solved: users, revenue, pilots or letters of intent."
+      },
+      {
+        "title": "Durable economics",
+        "text": "A business model, and a token model if there is one, that works without relying on the token price."
+      },
+      {
+        "title": "Regulatory maturity",
+        "text": "Regulation taken seriously from day one, especially in payments, lending and tokenized assets."
+      },
+      {
+        "title": "Essential technology",
+        "text": "Fintech, blockchain or AI that is essential to the product, not decoration."
+      }
+    ]
+  },
+  "pillars": {
+    "fintech": {
+      "name": "Fintech",
+      "tagline": "The rails that move money",
+      "summary": "Payments and stablecoins, wallets and exchanges, lending and credit, and tokenized real-world assets.",
+      "title": "Fintech: {em}the rails that move money.{/em}",
+      "metaDescription": "How 01 Capital invests in fintech: payments and stablecoins, wallets and exchanges, lending and credit, and real-world asset tokenization.",
+      "view": "Financial services are being rebuilt as software, and settlement is moving on-chain. Stablecoins, tokenized assets and programmable wallets let value move at the speed of the internet. We back the companies building those rails, and the products that make them simple, safe and compliant.",
+      "focus": [
+        {
+          "title": "Payments and stablecoins",
+          "text": "Cross-border payments, merchant acceptance and treasury tools built on stablecoin rails."
+        },
+        {
+          "title": "Wallets and exchanges",
+          "text": "Wallets, on- and off-ramps and trading venues that put security and user experience first."
+        },
+        {
+          "title": "Lending and credit",
+          "text": "Credit products that use on-chain transparency and better data to price risk."
+        },
+        {
+          "title": "Real-world asset tokenization",
+          "text": "Funds, credit, commodities and other real-world assets brought on-chain, with the legal structures to match."
+        }
+      ],
+      "lookForTitle": "What we look for in fintech founders",
+      "lookFor": [
+        "A clear path to the licenses your markets require.",
+        "Unit economics that work at today's volumes, not only at scale.",
+        "Distribution you can actually reach: partners, merchants or users.",
+        "Security and compliance designed into the product from the start."
+      ]
+    },
+    "blockchain": {
+      "name": "Blockchain",
+      "tagline": "Infrastructure for an open economy",
+      "summary": "Base layers and scaling, decentralized infrastructure, and consumer apps and games.",
+      "title": "Blockchain: {em}infrastructure for an open economy.{/em}",
+      "metaDescription": "How 01 Capital invests in blockchain: base layers and scaling, decentralized infrastructure, and consumer apps and gaming.",
+      "view": "Blockchains are becoming shared infrastructure for finance, data and digital ownership. The winners will be the networks and applications that are fast, secure and simple enough that users never have to think about the chain underneath.",
+      "focus": [
+        {
+          "title": "Base layers and scaling",
+          "text": "Networks, rollups and tooling that make blockchains faster, cheaper and easier to build on."
+        },
+        {
+          "title": "Decentralized infrastructure",
+          "text": "Storage, compute and networking that replace single providers with open markets."
+        },
+        {
+          "title": "Consumer apps and gaming",
+          "text": "Games, social and entertainment that people choose for the experience, not the token."
+        }
+      ],
+      "lookForTitle": "What we look for in blockchain founders",
+      "lookFor": [
+        "Real usage that holds up without incentives.",
+        "A security model you can explain in plain words.",
+        "A token, if there is one, with a clear job in the system.",
+        "A team that ships, and supports its developers and users."
+      ]
+    },
+    "ai": {
+      "name": "AI",
+      "tagline": "Intelligence as infrastructure",
+      "summary": "Decentralized compute and models, AI agents, and applied AI in health and consumer.",
+      "title": "AI: {em}intelligence as infrastructure.{/em}",
+      "metaDescription": "How 01 Capital invests in AI: decentralized compute and models, AI agents, and applied AI in health and consumer.",
+      "view": "AI is becoming a foundational layer of the economy, and it runs on compute, data and trust. We back teams that make AI more open and verifiable, and products where AI does work that customers will pay for.",
+      "focus": [
+        {
+          "title": "Decentralized compute and models",
+          "text": "Open networks for training and inference that widen access to compute."
+        },
+        {
+          "title": "AI agents",
+          "text": "Agents that act on a user's behalf, including agents that can hold and move money safely."
+        },
+        {
+          "title": "Applied AI",
+          "text": "Products in health, wellness and consumer where AI solves a specific problem better than anything else."
+        }
+      ],
+      "lookForTitle": "What we look for in AI founders",
+      "lookFor": [
+        "Proprietary data, distribution or workflow, not a thin layer over someone else's model.",
+        "Evidence that customers get value: usage, retention or revenue.",
+        "Responsible handling of data and model risk.",
+        "A team that pairs AI depth with domain expertise."
+      ]
+    }
+  },
+  "pillarPage": {
+    "eyebrow": "Investment pillar",
+    "viewTitle": "Our view",
+    "focusTitle": "Focus areas",
+    "companiesTitle": "In our ecosystem",
+    "insightsTitle": "Related insights",
+    "otherPillars": "Other pillars"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Venture capital · Incubation",
+      "title": "Where finance, blockchain and AI {em}converge.{/em}",
+      "lead": "01 Capital is a venture firm investing in fintech, blockchain and AI, with an incubation arm that helps founders build and launch.",
+      "primary": "Submit your deck",
+      "secondary": "Our investment thesis"
+    },
+    "pillars": {
+      "eyebrow": "Investment pillars",
+      "title": "Three pillars. {em}One thesis.{/em}",
+      "lead": "Money is becoming software. Blockchains give it a neutral, programmable settlement layer, and AI is making it intelligent. We invest where these shifts meet."
+    },
+    "model": {
+      "eyebrow": "How we work",
+      "title": "We invest. {em}We incubate.{/em}",
+      "lead": "Capital is only part of what founders need, so our firm has two arms that work as one team.",
+      "investTitle": "Invest",
+      "investText": "We back companies building the rails, infrastructure and intelligence of a new financial system, and we stay close long after the first check.",
+      "investLink": "How we invest",
+      "incubateTitle": "Incubate",
+      "incubateText": "Our incubation team works alongside founders on strategy, token design, technology, brand and go-to-market, and opens doors across our global network.",
+      "incubateLink": "Explore incubation"
+    },
+    "criteria": {
+      "eyebrow": "What we look for",
+      "title": "The companies we back {em}share five traits.{/em}",
+      "lead": "Whatever the pillar, these are the questions we ask first."
+    },
+    "ecosystem": {
+      "eyebrow": "Ecosystem",
+      "title": "In good company",
+      "lead": "Companies and protocols 01 Capital has invested in, incubated or worked with.",
+      "link": "See the full ecosystem"
+    },
+    "insights": {
+      "eyebrow": "Insights",
+      "title": "Research and {em}perspectives{/em}",
+      "lead": "Our thinking on the markets we invest in, and practical guides for founders."
+    }
+  },
+  "invest": {
+    "metaTitle": "Invest",
+    "metaDescription": "01 Capital invests in fintech, blockchain and AI. Our three pillars, what we look for, and how we work with founders.",
+    "eyebrow": "Invest",
+    "title": "Backing the builders of a {em}new financial system.{/em}",
+    "lead": "We invest in companies building the rails, infrastructure and intelligence of a new financial system, and we stay close long after the first check.",
+    "glance": {
+      "title": "At a glance",
+      "stages": "Stages",
+      "checkSize": "Check size",
+      "geography": "Geography"
+    },
+    "pillars": {
+      "eyebrow": "Our pillars",
+      "title": "Three pillars, {em}one market.{/em}",
+      "lead": "Each pillar has its own thesis. Together they describe one market that is being rebuilt."
+    },
+    "criteria": {
+      "eyebrow": "What we look for",
+      "title": "Five questions {em}we ask first.{/em}"
+    },
+    "approach": {
+      "eyebrow": "Our approach",
+      "title": "How we work {em}with founders.{/em}",
+      "items": [
+        {
+          "title": "Conviction, not consensus",
+          "text": "We form our own view of a market, and we move with conviction when we find the right team."
+        },
+        {
+          "title": "Hands-on from day one",
+          "text": "Our investments come with access to our incubation team, from strategy and token design to technology and go-to-market."
+        },
+        {
+          "title": "Aligned for the long term",
+          "text": "We back business models built to last, and we stay involved as companies grow."
+        }
+      ]
+    }
+  },
+  "incubation": {
+    "metaTitle": "Incubation",
+    "metaDescription": "01 Capital's incubation arm helps founders build and launch: venture building, token design, technology, brand, go-to-market and enterprise Web3 adoption.",
+    "eyebrow": "Incubation",
+    "title": "We build {em}alongside founders.{/em}",
+    "lead": "Our incubation arm gives teams hands-on support from people who have spent more than a decade building in blockchain, from first product to launch and beyond.",
+    "primary": "Apply for incubation",
+    "who": {
+      "eyebrow": "Who it's for",
+      "title": "Built for two kinds of {em}builders.{/em}",
+      "items": [
+        {
+          "title": "Early-stage founders",
+          "text": "Teams in fintech, blockchain and AI turning a strong idea into a market-ready product."
+        },
+        {
+          "title": "Established businesses",
+          "text": "Companies bringing products, assets or operations on-chain for the first time."
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Services",
+      "title": "Support at {em}every stage.{/em}",
+      "lead": "Pick what you need. Most teams work with us across several areas."
+    },
+    "groups": [
+      {
+        "title": "Build",
+        "text": "Turn an idea into a product people can use.",
+        "items": [
+          {
+            "title": "Venture building",
+            "text": "From concept to a market-ready product: scoping, resourcing and operational support."
+          },
+          {
+            "title": "Token and economic design",
+            "text": "Economic models and tokenomics built around real utility and long-term sustainability."
+          },
+          {
+            "title": "Technical support",
+            "text": "Architecture, development and smart contract guidance from our technical and operations team."
+          }
+        ]
+      },
+      {
+        "title": "Launch",
+        "text": "Reach the right users, partners and markets.",
+        "items": [
+          {
+            "title": "Brand, community and go-to-market",
+            "text": "Positioning, content, media outreach and community building that earn lasting attention."
+          },
+          {
+            "title": "Listing readiness",
+            "text": "Advice on what exchanges look for: documentation, due diligence, compliance and operational readiness."
+          }
+        ]
+      },
+      {
+        "title": "Grow",
+        "text": "Keep compounding after launch.",
+        "items": [
+          {
+            "title": "Strategy and research",
+            "text": "Market analysis, risk assessment and strategy tailored to your goals, with ongoing monitoring of trends and competitors."
+          },
+          {
+            "title": "Global network",
+            "text": "Introductions to industry experts, partners and service providers across our global network."
+          }
+        ]
+      },
+      {
+        "title": "Enterprise",
+        "text": "Help for traditional businesses moving on-chain.",
+        "items": [
+          {
+            "title": "Web3 adoption",
+            "text": "Strategy and integration for businesses adopting blockchain, digital assets and smart contracts."
+          },
+          {
+            "title": "Real-world asset structuring",
+            "text": "Advice on tokenizing real-world assets, from structure and risk management to legal and regulatory requirements."
+          }
+        ]
+      }
+    ],
+    "process": {
+      "eyebrow": "How it works",
+      "title": "From first call {em}to launch.{/em}",
+      "steps": [
+        {
+          "title": "Apply",
+          "text": "Send us your deck and tell us where you need help."
+        },
+        {
+          "title": "Assess",
+          "text": "We review your project and agree where we can add the most value."
+        },
+        {
+          "title": "Build",
+          "text": "We work alongside your team on a shared plan with clear milestones."
+        },
+        {
+          "title": "Launch and grow",
+          "text": "We support your launch and stay involved as you scale."
+        }
+      ]
+    }
+  },
+  "ecosystem": {
+    "metaTitle": "Ecosystem",
+    "metaDescription": "Companies and protocols 01 Capital has invested in, incubated or worked with across fintech, blockchain and AI.",
+    "eyebrow": "Ecosystem",
+    "title": "Our {em}ecosystem{/em}",
+    "lead": "Companies and protocols 01 Capital has invested in, incubated or worked with.",
+    "groups": {
+      "portfolio": "Portfolio",
+      "incubated": "Incubated",
+      "partner": "Partners",
+      "other": "Ecosystem"
+    },
+    "filterLabel": "Filter by pillar",
+    "filterAll": "All",
+    "visit": "Visit {name}",
+    "trademarks": "Company names and logos are trademarks of their respective owners."
+  },
+  "insights": {
+    "metaTitle": "Insights",
+    "metaDescription": "Research and perspectives on fintech, blockchain and AI from 01 Capital, plus practical guides for founders.",
+    "eyebrow": "Insights",
+    "title": "Research and {em}perspectives{/em}",
+    "lead": "Our thinking on fintech, blockchain and AI, and practical guides for founders.",
+    "filterLabel": "Filter insights",
+    "filters": {
+      "all": "All",
+      "fintech": "Fintech",
+      "blockchain": "Blockchain",
+      "ai": "AI",
+      "founders": "Founder guides"
+    },
+    "types": {
+      "thesis": "Thesis",
+      "house-view": "House view",
+      "founder-guide": "Founder guide"
+    },
+    "englishOnly": "Our articles are currently published in English.",
+    "englishBadge": "English",
+    "minRead": "{minutes} min read",
+    "empty": "New insights are on the way."
+  },
+  "article": {
+    "by": "By {author}",
+    "disclaimerTitle": "Important information",
+    "disclaimer": "This article is for information only. It is not investment, legal or tax advice, or an offer to buy or sell any security or digital asset. 01 Capital and its affiliates may hold positions in companies or assets mentioned.",
+    "more": "More insights"
+  },
+  "founders": {
+    "metaTitle": "Submit your deck",
+    "metaDescription": "Building in fintech, blockchain or AI? Submit your deck to 01 Capital for investment, incubation or both.",
+    "eyebrow": "For founders",
+    "title": "Submit your {em}deck.{/em}",
+    "lead": "Building in fintech, blockchain or AI? We read every submission, and if there's a fit, we'll reply within 10 business days.",
+    "lookForTitle": "What we look for",
+    "nextTitle": "What happens next",
+    "next": [
+      {
+        "title": "We read your deck",
+        "text": "Every submission is read by our team."
+      },
+      {
+        "title": "We reply if there's a fit",
+        "text": "Within 10 business days, to set up a first call."
+      },
+      {
+        "title": "We go deeper together",
+        "text": "Product, market, team, and how we can help: investment, incubation or both."
+      }
+    ],
+    "nda": "We don't sign NDAs at first review, so please share only what you're comfortable sending.",
+    "faqTitle": "Questions",
+    "faq": [
+      {
+        "q": "Do you sign NDAs?",
+        "a": "Not at first review. Please share only what you're comfortable sending."
+      },
+      {
+        "q": "Can I apply for incubation without raising?",
+        "a": "Yes. Choose \"Incubation\" in the form and tell us where you need help."
+      },
+      {
+        "q": "How long until I hear back?",
+        "a": "If there's a fit, we'll reply within 10 business days."
+      }
+    ],
+    "deckGuideQ": "What should my deck include?",
+    "deckGuideA": "Read our guide: {link}.",
+    "fallback": "Trouble with the form? Email your deck link to {email}."
+  },
+  "form": {
+    "title": "Tell us about your company",
+    "optional": "optional",
+    "select": "Select…",
+    "name": "Full name",
+    "email": "Email",
+    "company": "Company",
+    "website": "Website",
+    "lookingFor": "What are you looking for?",
+    "lookingForOptions": {
+      "investment": "Investment",
+      "incubation": "Incubation",
+      "both": "Both"
+    },
+    "pillar": "Pillar",
+    "pillarOptions": {
+      "fintech": "Fintech",
+      "blockchain": "Blockchain",
+      "ai": "AI",
+      "other": "Other"
+    },
+    "stage": "Stage",
+    "stageOptions": {
+      "pre-seed": "Idea or pre-seed",
+      "seed": "Seed",
+      "series-a": "Series A",
+      "series-b-plus": "Series B or later",
+      "established": "Established business"
+    },
+    "raise": "Amount raising (USD)",
+    "raiseHint": "Leave blank if you're not raising.",
+    "country": "Country",
+    "oneLiner": "What are you building, in one sentence?",
+    "deckUrl": "Link to your deck",
+    "deckUrlHint": "DocSend, Google Drive, Dropbox or any link we can open.",
+    "source": "How did you hear about us?",
+    "consent": "I agree that 01 Capital may store and use these details to review my submission, as described in the {privacy}.",
+    "privacyLink": "privacy policy",
+    "submit": "Submit",
+    "submitting": "Sending…",
+    "successTitle": "Thank you. We've received your deck.",
+    "successText": "We've sent a confirmation to your email. If there's a fit, we'll reply within 10 business days.",
+    "errorGeneric": "Something went wrong. Please try again, or email your deck link to {email}.",
+    "errorValidation": "Please check the highlighted fields.",
+    "errorCaptcha": "Please complete the security check and try again.",
+    "noscript": "This form needs JavaScript. You can also email your deck link to {email}."
+  },
+  "about": {
+    "metaTitle": "About",
+    "metaDescription": "01 Capital is a venture firm and incubator investing in fintech, blockchain and AI.",
+    "eyebrow": "About",
+    "title": "Capital and craft {em}for founders.{/em}",
+    "lead": "01 Capital invests in and incubates companies where fintech, blockchain and AI meet. We pair capital with hands-on support, because the hardest problems in these markets are rarely solved by money alone.",
+    "approach": {
+      "eyebrow": "Our approach",
+      "title": "Two arms, {em}one team.{/em}",
+      "invest": "Our investment arm backs companies building the rails, infrastructure and intelligence of a new financial system.",
+      "incubate": "Our incubation arm works alongside founders and established businesses, from strategy and token design to technology, brand and go-to-market."
+    },
+    "strengths": {
+      "eyebrow": "Our strengths",
+      "title": "What we {em}bring.{/em}",
+      "items": [
+        {
+          "title": "Industry experience",
+          "text": "A team of blockchain veterans with more than a decade in the industry."
+        },
+        {
+          "title": "Technical and operations depth",
+          "text": "A skilled technical and operations team with strong execution."
+        },
+        {
+          "title": "Global network",
+          "text": "Relationships across the global Web3 ecosystem, from builders to service providers."
+        },
+        {
+          "title": "Track record",
+          "text": "Many projects incubated and supported, from first product to launch."
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Team",
+      "title": "The people behind {em}01 Capital.{/em}"
+    }
+  },
+  "contact": {
+    "metaTitle": "Contact",
+    "metaDescription": "How to reach 01 Capital: deck submissions, partnerships and media.",
+    "eyebrow": "Contact",
+    "title": "Let's {em}talk.{/em}",
+    "lead": "Whether you're a founder, a partner or a journalist, here's how to reach us.",
+    "foundersTitle": "Founders",
+    "foundersText": "The fastest way to reach our investment team is to submit your deck.",
+    "generalTitle": "Partnerships and media",
+    "generalText": "For partnerships, media and everything else.",
+    "socialTitle": "Follow us",
+    "socialText": "News and perspectives from 01 Capital.",
+    "officeTitle": "Office"
+  },
+  "legal": {
+    "updated": "Last updated {date}",
+    "privacy": {
+      "metaDescription": "How 01 Capital collects and uses personal data through this website."
+    },
+    "terms": {
+      "metaDescription": "The terms that apply to your use of the 01 Capital website."
+    },
+    "disclaimer": {
+      "metaDescription": "Important information about the content of the 01 Capital website."
+    }
+  },
+  "footer": {
+    "tagline": "Venture capital and incubation for fintech, blockchain and AI.",
+    "firm": "Firm",
+    "founders": "Founders",
+    "legal": "Legal",
+    "follow": "Follow",
+    "whatWeLookFor": "What we look for",
+    "deckGuide": "Pitch deck guide",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "disclaimer": "Disclaimer",
+    "notice": "Nothing on this website is an offer to sell, or a solicitation of an offer to buy, any security, digital asset or fund interest.",
+    "rights": "© {year} {legalName}. All rights reserved."
+  },
+  "notFound": {
+    "metaTitle": "Page not found",
+    "title": "Page not {em}found.{/em}",
+    "text": "The page you're looking for doesn't exist or has moved.",
+    "home": "Back to home"
+  }
+}

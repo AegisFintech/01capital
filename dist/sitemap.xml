@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.01.capital/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/invest/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/invest/fintech/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/fintech/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/invest/blockchain/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/blockchain/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/invest/ai/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/ai/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/incubation/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/incubation/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ecosystem/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/ecosystem/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/insights/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/insights/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/insights/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/insights/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/insights/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/founders/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/founders/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/founders/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/founders/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/founders/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/about/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/contact/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/legal/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/privacy/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/legal/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/terms/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/legal/disclaimer/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/disclaimer/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/insights/convergence/</loc>
+  </url>
+  <url>
+    <loc>https://www.01.capital/insights/stablecoins-settlement-layer/</loc>
+  </url>
+  <url>
+    <loc>https://www.01.capital/insights/tokenized-real-world-assets/</loc>
+  </url>
+  <url>
+    <loc>https://www.01.capital/insights/who-owns-ai-compute/</loc>
+  </url>
+  <url>
+    <loc>https://www.01.capital/insights/token-design-mistakes/</loc>
+  </url>
+  <url>
+    <loc>https://www.01.capital/insights/what-we-look-for-in-a-pitch-deck/</loc>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/invest/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/invest/fintech/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/fintech/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/invest/blockchain/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/blockchain/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/invest/ai/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/ai/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/incubation/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/incubation/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/ecosystem/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/ecosystem/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/insights/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/insights/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/insights/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/insights/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/insights/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/founders/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/founders/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/founders/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/founders/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/founders/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/about/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/contact/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/legal/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/privacy/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/legal/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/terms/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/zh/legal/disclaimer/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/disclaimer/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/invest/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/invest/fintech/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/fintech/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/invest/blockchain/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/blockchain/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/invest/ai/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/ai/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/incubation/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/incubation/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/ecosystem/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/ecosystem/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/insights/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/insights/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/insights/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/insights/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/insights/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/founders/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/founders/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/founders/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/founders/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/founders/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/about/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/contact/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/legal/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/privacy/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/legal/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/terms/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ko/legal/disclaimer/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/disclaimer/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/invest/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/invest/fintech/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/fintech/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/fintech/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/invest/blockchain/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/blockchain/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/blockchain/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/invest/ai/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/invest/ai/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/invest/ai/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/incubation/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/incubation/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/incubation/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/ecosystem/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/ecosystem/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/ecosystem/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/insights/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/insights/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/insights/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/insights/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/insights/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/founders/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/founders/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/founders/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/founders/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/founders/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/about/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/contact/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/legal/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/privacy/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/legal/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/terms/"/>
+  </url>
+  <url>
+    <loc>https://www.01.capital/ja/legal/disclaimer/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.01.capital/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.01.capital/zh/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.01.capital/ko/legal/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.01.capital/ja/legal/disclaimer/"/>
+  </url>
+</urlset>

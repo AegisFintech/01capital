@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Token design mistakes we see in early-stage projects | 01 Capital</title>
+<meta name="description" content="We share candid lessons on the token design mistakes we see most often in early-stage projects, and the principles we use to help founders avoid them.">
+<link rel="canonical" href="https://www.01.capital/insights/token-design-mistakes/">
+
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="01 Capital">
+<meta property="og:title" content="Token design mistakes we see in early-stage projects | 01 Capital">
+<meta property="og:description" content="We share candid lessons on the token design mistakes we see most often in early-stage projects, and the principles we use to help founders avoid them.">
+<meta property="og:url" content="https://www.01.capital/insights/token-design-mistakes/">
+<meta property="og:image" content="https://www.01.capital/assets/img/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@01capital01">
+<meta name="theme-color" content="#08080b">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32.png">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="stylesheet" href="/assets/css/site.css?v=5092682db8">
+<script>document.documentElement.classList.add('js')</script>
+<script src="/assets/js/site.js?v=b9c1132283" defer></script>
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Token design mistakes we see in early-stage projects","description":"We share candid lessons on the token design mistakes we see most often in early-stage projects, and the principles we use to help founders avoid them.","datePublished":"2026-10-28","inLanguage":"en","author":{"@type":"Organization","name":"01 Capital Research"},"publisher":{"@type":"Organization","name":"01 Capital","logo":{"@type":"ImageObject","url":"https://www.01.capital/assets/img/logo.png"}},"mainEntityOfPage":"https://www.01.capital/insights/token-design-mistakes/"}</script>
+</head>
+<body class="page-article">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header" data-header>
+  <div class="container header-inner">
+    <a class="brand" href="/" aria-label="01 Capital home">
+      <img src="/assets/img/logo.png" alt="01 Capital" width="577" height="239">
+    </a>
+    <nav class="site-nav" id="site-nav" aria-label="Main" data-nav>
+      <ul class="nav-list"><li><a href="/invest/">Invest</a></li><li><a href="/incubation/">Incubation</a></li><li><a href="/ecosystem/">Ecosystem</a></li><li><a href="/insights/" aria-current="page">Insights</a></li><li><a href="/about/">About</a></li></ul>
+      <a class="btn btn-primary btn-sm nav-cta" href="/founders/">Submit your deck</a>
+    </nav>
+    <div class="header-actions">
+      <details class="lang-switch" data-lang-switch>
+        <summary aria-label="Language: English"><svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.6 3.8 5.6 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.6-3.8-9S9.5 5.6 12 3z"/></svg><span>EN</span><svg class="icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 9l6 6 6-6"/></svg></summary>
+        <ul class="lang-menu"><li><a href="/insights/token-design-mistakes/" lang="en" hreflang="en" aria-current="true">English</a></li><li><a href="/zh/insights/" lang="zh-Hant" hreflang="zh-Hant">繁體中文</a></li><li><a href="/ko/insights/" lang="ko" hreflang="ko">한국어</a></li><li><a href="/ja/insights/" lang="ja" hreflang="ja">日本語</a></li></ul>
+      </details>
+      <a class="btn btn-primary btn-sm header-cta" href="/founders/">Submit your deck</a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-nav-toggle>
+        <span class="sr-only">Menu</span>
+        <span class="nav-toggle-bar" aria-hidden="true"></span>
+        <span class="nav-toggle-bar" aria-hidden="true"></span>
+      </button>
+    </div>
+  </div>
+</header>
+<main id="main">
+<article class="article">
+  <header class="article-header">
+    <div class="page-hero-bg" aria-hidden="true"></div>
+    <div class="container container--narrow">
+      <a class="back-link" href="/insights/"><svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M19 12H5M11 6l-6 6 6 6"/></svg>All insights</a>
+      <p class="article-meta">
+        <a class="tag" href="/invest/blockchain/">Blockchain</a>
+        <span class="tag tag--muted">Founder guide</span>
+      </p>
+      <h1 class="display display--article">Token design mistakes we see in early-stage projects</h1>
+      <p class="lead lead--lg">We share candid lessons on the token design mistakes we see most often in early-stage projects, and the principles we use to help founders avoid them.</p>
+      <p class="byline">
+        <span>By 01 Capital Research</span>
+        <time datetime="2026-10-28">October 28, 2026</time>
+        <span>7 min read</span>
+      </p>
+    </div>
+  </header>
+  <div class="container container--narrow">
+    <div class="prose prose--article"><p>Most token failures we see are not failures of the market. They are failures of design, usually made early and under pressure by capable teams who treated the token as a launch event rather than as part of a system.</p>
+<p>A token is a tool for coordinating a network. It can pay the people who provide a service, secure a shared system and align participants who will never meet. Used well, it lets an open network bootstrap and govern itself in ways a company alone cannot. Used badly, it consumes the team&#39;s attention, attracts the wrong participants and creates legal exposure.</p>
+<p>Our view is that the token should be the last part of the system you design, not the first. What follows are the mistakes we see most often, grouped by where they come from, and the principles we use instead.</p>
+<h2 id="mistakes-of-timing-and-purpose">Mistakes of timing and purpose</h2>
+<h3 id="launching-a-token-before-product-market-fit">Launching a token before product-market fit</h3>
+<p>A token turns a product experiment into a public market. Once it trades, the market reads every decision through the token, and the signal a young team needs most, whether users actually want the product, gets buried under noise.</p>
+<p>Before product-market fit, you need the freedom to change your mind about the user, the product and the business model. A live token makes every change expensive, and altering its role later can alienate the community and raise legal questions. Find the product first. Launch a token only when you know the job it has to do and can show it doing that job.</p>
+<h3 id="a-token-with-no-clear-job">A token with no clear job</h3>
+<p>Ask what breaks if the token disappears. If the answer is nothing, or if a stable unit of account or an ordinary database would work as well, the token has no job. Tokens bolted onto a product to raise money or generate excitement tend to become liabilities.</p>
+<p>Good jobs are specific: collateral that operators stake and lose if they misbehave, payment for a scarce network resource, or a right to take part in securing the system. Ethereum is the textbook technical example. Its native asset pays for computation on a shared network, so the token&#39;s role is inseparable from how the system works.</p>
+<h2 id="mistakes-of-incentives-and-supply">Mistakes of incentives and supply</h2>
+<h3 id="incentives-that-rent-usage">Incentives that rent usage</h3>
+<p>Incentive programs attract users quickly. The trouble is that they attract the users who are best at collecting rewards, and those users leave the moment rewards fall.</p>
+<p>Picture a hypothetical lending app that pays generous rewards for deposits. Deposits surge, the dashboard looks like traction and the team raises a round on the strength of it. When the rewards taper, the deposits move to the next program, and the team learns how few of those users needed the product.</p>
+<p>Treat incentives as a marketing budget with a measurable goal. Decide in advance what behavior you are paying for, how you will tell whether it persists and when the program ends. Track retention after rewards decline, not activity while they are high. Reward actions that create lasting value, such as providing a real service or staying active over time, rather than raw volume, which is easy to fake.</p>
+<h3 id="unlocks-that-run-ahead-of-value">Unlocks that run ahead of value</h3>
+<p>Vesting and unlock schedules determine when the team and early backers can transfer their tokens. When large amounts of supply become transferable long before the product has created value to match, the result is an overhang that unsettles the community, distracts the team and erodes trust.</p>
+<p>Match unlocks to the pace at which the network creates value, not to a fundraising calendar. Team and investor tokens should vest over a horizon that reflects how long the network takes to mature, with cliffs that keep people committed through the hardest stretch. Publish the schedule, explain the reasoning and keep to it.</p>
+<h3 id="a-treasury-kept-mostly-in-your-own-token">A treasury kept mostly in your own token</h3>
+<p>A treasury kept mostly in your own token looks strong on paper and is fragile in practice. Its real value depends on market conditions for a single asset that the team itself influences, so a difficult market shortens your runway just when you need it most. Converting a large position into operating funds can also unsettle the community the treasury exists to serve.</p>
+<p>Run the treasury like a company&#39;s balance sheet. Keep enough operating runway in stable assets to fund the plan through difficult markets, diversify according to a written policy and share that policy openly.</p>
+<h2 id="mistakes-of-governance-and-law">Mistakes of governance and law</h2>
+<h3 id="governance-theater">Governance theater</h3>
+<p>Some projects launch a governance token with voting rights over almost nothing, while a small group makes every real decision in private. Others hand real power to token votes that a few large wallets can decide. Either way, the community eventually notices, and the gap between what governance claims and what it does becomes a credibility problem and, in some places, a legal one.</p>
+<p>Be honest about where decisions are made today. Decentralize in stages, starting with the decisions the community is equipped to make, with clear processes and safeguards. Real governance can start narrow. Fake governance is worse than none.</p>
+<h3 id="ignoring-the-legal-classification-of-the-token">Ignoring the legal classification of the token</h3>
+<p>How authorities classify a token depends on how it is designed, distributed, marketed and used, and the answer can differ from one country to the next. Depending on those facts, it may be treated as a security, a payment instrument, a commodity or something else, each with its own obligations. Teams that leave the question until after launch often find that their design, marketing and distribution all have to change.</p>
+<p>Bring in experienced counsel for each market you plan to serve before the design is final, and let their analysis shape the token&#39;s features, distribution and language. How you describe a token matters, so never present it as an investment.</p>
+<h2 id="mistakes-of-market-focus">Mistakes of market focus</h2>
+<h3 id="designing-for-exchange-listings-instead-of-users">Designing for exchange listings instead of users</h3>
+<p>Some teams organize the entire launch around getting the token listed on exchanges. Timing, supply, marketing and community campaigns all point at that moment. But a listing is not product-market fit. Users do not stay because a token is tradable. They stay because the product solves a problem.</p>
+<p>When the listing becomes the goal, teams make predictable compromises: they compress the roadmap, inflate early metrics and promise more than the product can deliver. Design for the user instead. If the network is genuinely useful, the question of where its token trades becomes a detail rather than the plan.</p>
+<h3 id="schemes-to-support-price-or-trading-volume">Schemes to support price or trading volume</h3>
+<p>This is not a design mistake. It is a line you must not cross. Any arrangement to artificially support a token&#39;s price or trading volume, whether by trading with yourself, coordinating groups to trade in concert or paying others to create the appearance of demand, harms the people who rely on that market being real. In many jurisdictions it can also be illegal market manipulation, with serious consequences for the people involved.</p>
+<p>If anyone offers to manufacture volume or support your token&#39;s market for you, decline and talk to your counsel.</p>
+<blockquote><p>If a token&#39;s market does not reflect what the network is actually doing, the fix is the product, not the market.</p></blockquote>
+<h2 id="principles-of-good-token-design">Principles of good token design</h2>
+<p>The mistakes above share a root cause: treating the token as the product rather than as infrastructure for one. The principles we apply follow from that.</p>
+<ol><li><strong>Start with the system, not the token.</strong> Map the participants, what each contributes and needs, and where coordination breaks down. Add a token only where it solves a coordination problem better than the alternatives.</li><li><strong>Give the token a job you can state in one sentence.</strong> If you cannot, it does not have one yet.</li><li><strong>Make the economics work without relying on the token price.</strong> Model revenue, costs and incentives in stable terms. The network should make sense to users who never trade the token.</li><li><strong>Tie incentives to lasting value.</strong> Pay for behavior the network needs and that persists, with budgets, measurements and end dates set in advance.</li><li><strong>Align supply with value creation.</strong> Vesting, unlocks and emissions should track the network&#39;s progress, on a public schedule.</li><li><strong>Run the treasury like a business.</strong> Fund the plan in stable assets, diversify by policy and report openly.</li><li><strong>Decentralize honestly and in stages.</strong> Hand over the decisions the community can make well, and be clear about the rest.</li><li><strong>Design with counsel from the start.</strong> Let legal analysis shape the design, distribution and language in every market you serve.</li><li><strong>Treat market integrity as non-negotiable.</strong> No artificial volume, no price support and no undisclosed arrangements.</li></ol>
+<h2 id="how-we-help-and-what-we-look-for">How we help, and what we look for</h2>
+<p>Token and economic design is one of the core services of our incubation team. We work alongside founders to:</p>
+<ul><li>decide whether a token is the right tool at all and, if it is, define its job</li><li>model supply, emissions, vesting and treasury plans against the product roadmap</li><li>stress-test the design against slow adoption, difficult markets and the end of incentive programs</li><li>design incentive programs with clear goals, measurements and end dates</li><li>plan governance that starts narrow and widens as the community matures</li><li>prepare for legal review alongside the founders&#39; own counsel in each market</li></ul>
+<p>What we look for follows from the same principles: a real problem with evidence of demand, a token with a job it does better than the alternatives, economics that work without relying on the token price, regulation taken seriously from day one, and founders with the judgment to say no to shortcuts. If that describes your team, we would like to see your deck.</p></div>
+    <aside class="disclaimer-box" aria-labelledby="article-disclaimer">
+      <h2 id="article-disclaimer">Important information</h2>
+      <p>This article is for information only. It is not investment, legal or tax advice, or an offer to buy or sell any security or digital asset. 01 Capital and its affiliates may hold positions in companies or assets mentioned.</p>
+    </aside>
+  </div>
+</article>
+
+<section class="section section--line">
+  <div class="container">
+    <header class="section-head section-head--left">
+      <p class="eyebrow">Insights</p>
+      <h2 class="h2">More insights</h2>
+      
+    </header>
+    <div class="article-grid"><article class="article-card" data-reveal data-pillar="none" data-type="house-view">
+      <a class="article-card-link" href="/insights/convergence/">
+        <span class="article-card-meta">
+          
+          <span class="tag tag--muted">House view</span>
+          
+        </span>
+        <h3 class="article-card-title" lang="en">Why fintech, blockchain and AI are converging</h3>
+        <p class="article-card-text" lang="en">Money is becoming software, and we believe the most durable companies will be built where fintech, blockchain and AI meet.</p>
+        <span class="article-card-foot">
+          <span>7 min read</span>
+          <span class="link-arrow" aria-hidden="true"><svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </span>
+      </a>
+    </article><article class="article-card" data-reveal data-pillar="fintech" data-type="thesis">
+      <a class="article-card-link" href="/insights/stablecoins-settlement-layer/">
+        <span class="article-card-meta">
+          <span class="tag">Fintech</span>
+          <span class="tag tag--muted">Thesis</span>
+          
+        </span>
+        <h3 class="article-card-title" lang="en">Stablecoins are becoming the internet&#39;s settlement layer</h3>
+        <p class="article-card-text" lang="en">Settlement, not the payment screen, is the real bottleneck in moving money online, and we believe stablecoins are becoming the layer that fixes it.</p>
+        <span class="article-card-foot">
+          <span>7 min read</span>
+          <span class="link-arrow" aria-hidden="true"><svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </span>
+      </a>
+    </article><article class="article-card" data-reveal data-pillar="fintech" data-type="thesis">
+      <a class="article-card-link" href="/insights/tokenized-real-world-assets/">
+        <span class="article-card-meta">
+          <span class="tag">Fintech</span>
+          <span class="tag tag--muted">Thesis</span>
+          
+        </span>
+        <h3 class="article-card-title" lang="en">Tokenized real-world assets: what has to be true for them to scale</h3>
+        <p class="article-card-text" lang="en">Tokenized assets promise fractional ownership, faster settlement and collateral that moves, but only if six legal, operational and market conditions are met.</p>
+        <span class="article-card-foot">
+          <span>7 min read</span>
+          <span class="link-arrow" aria-hidden="true"><svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </span>
+      </a>
+    </article></div>
+  </div>
+</section>
+
+<section class="cta-band">
+  <div class="container">
+    <div class="cta-inner" data-reveal>
+      <div class="cta-copy">
+        <h2 class="h2">Building in fintech, blockchain or AI?</h2>
+        <p class="lead">We read every deck. Tell us what you&#39;re building and where you need help.</p>
+      </div>
+      <a class="btn btn-primary btn-lg" href="/founders/">Submit your deck<svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <img src="/assets/img/logo.png" alt="01 Capital" width="577" height="239" loading="lazy">
+        <p>Venture capital and incubation for fintech, blockchain and AI.</p>
+        <a class="btn btn-primary btn-sm" href="/founders/">Submit your deck<svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      </div>
+      <nav class="footer-cols" aria-label="Footer">
+        <div>
+          <h2 class="footer-heading">Firm</h2>
+          <ul>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/invest/">Invest</a></li>
+            <li><a href="/incubation/">Incubation</a></li>
+            <li><a href="/ecosystem/">Ecosystem</a></li>
+            <li><a href="/insights/">Insights</a></li>
+            <li><a href="/contact/">Contact</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2 class="footer-heading">Founders</h2>
+          <ul>
+            <li><a href="/founders/">Submit your deck</a></li>
+            <li><a href="/invest/#criteria">What we look for</a></li>
+            <li><a href="/insights/what-we-look-for-in-a-pitch-deck/">Pitch deck guide</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2 class="footer-heading">Legal</h2>
+          <ul>
+            <li><a href="/legal/privacy/">Privacy policy</a></li>
+            <li><a href="/legal/terms/">Terms of use</a></li>
+            <li><a href="/legal/disclaimer/">Disclaimer</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2 class="footer-heading">Follow</h2>
+          <ul>
+            <li><a href="https://x.com/01capital01" rel="noopener" target="_blank"><svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false"><path d="M17.7 3h3.1l-6.8 7.8 8 10.2h-6.3l-4.9-6.4L5.2 21H2.1l7.3-8.3L1.7 3h6.4l4.4 5.9L17.7 3zm-1.1 16.2h1.7L7.5 4.7H5.7l10.9 14.5z"/></svg> @01capital01<span class="sr-only"> (opens in a new tab)</span></a></li>
+            
+          </ul>
+        </div>
+      </nav>
+    </div>
+    <div class="footer-bottom">
+      <p class="footer-notice">Nothing on this website is an offer to sell, or a solicitation of an offer to buy, any security, digital asset or fund interest.</p>
+      <div class="footer-meta">
+        <p>© 2026 01 Capital Limited. All rights reserved.</p>
+        <ul class="footer-langs">
+          <li><a href="/insights/token-design-mistakes/" lang="en" hreflang="en">English</a></li><li><a href="/zh/insights/" lang="zh-Hant" hreflang="zh-Hant">繁體中文</a></li><li><a href="/ko/insights/" lang="ko" hreflang="ko">한국어</a></li><li><a href="/ja/insights/" lang="ja" hreflang="ja">日本語</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

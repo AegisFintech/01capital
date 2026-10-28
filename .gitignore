@@ -1,0 +1,14 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.dev.vars
+
+# Tools
+node_modules/
+.wrangler/
+.playwright-cli/
+
+# OS
+.DS_Store
+Thumbs.db
